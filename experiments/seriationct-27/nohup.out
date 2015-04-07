@@ -1,0 +1,728 @@
+2015-04-07 03:45:52,394 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 329 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.12
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 344
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 343 seconds
+2015-04-07 03:51:39,202 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 540 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.01
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 592
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 567 seconds
+2015-04-07 04:01:08,108 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 43 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.97
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 303
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 56 seconds
+2015-04-07 04:02:05,657 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 424 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.06
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 504
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 447 seconds
+2015-04-07 04:09:34,123 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 378 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.01
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 442
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 398 seconds
+2015-04-07 04:16:12,999 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 464 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.25
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 555
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 489 seconds
+2015-04-07 04:24:23,330 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 575 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.36
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 560
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 601 seconds
+2015-04-07 04:34:25,655 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 508 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.18
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 550
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 532 seconds
+2015-04-07 04:43:19,428 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 537 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.05
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 639
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 567 seconds
+2015-04-07 04:52:48,129 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-random-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 444 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.02
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 523
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 467 seconds
+2015-04-07 05:00:36,347 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 702 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.06
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 696
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 735 seconds
+2015-04-07 05:12:52,982 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 594 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.000
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 584
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 621 seconds
+2015-04-07 05:23:15,648 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-random-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 514 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.34
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 563
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 539 seconds
+2015-04-07 05:32:16,404 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 457 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.000
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 543
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 481 seconds
+2015-04-07 05:40:18,971 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 740 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.7
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 722
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 775 seconds
+2015-04-07 05:53:15,590 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'random-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'random-sampled-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 615 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.01
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 748
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 651 seconds
+WARNING:  At the moment, this script should only be used to process a directory of input files associated with a single XY file
+
+2015-04-07 06:04:08,039 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 638 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.72
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 620
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 667 seconds
+2015-04-07 06:15:16,618 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 572 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.38
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 630
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 601 seconds
+2015-04-07 06:25:19,534 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 461 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.2
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 539
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 485 seconds
+2015-04-07 06:33:25,847 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 370 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.27
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 431
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 389 seconds
+2015-04-07 06:39:56,021 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 332 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.000
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 381
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 349 seconds
+2015-04-07 06:45:46,045 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 643 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.38
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 628
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 673 seconds
+2015-04-07 06:57:00,104 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 608 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.05
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 730
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 643 seconds
+2015-04-07 07:07:44,856 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 478 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.38
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 562
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 504 seconds
+2015-04-07 07:16:10,179 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 482 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.03
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 569
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 507 seconds
+2015-04-07 07:24:38,696 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 516 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.32
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 568
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 542 seconds
+2015-04-07 07:33:42,006 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 465 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.46
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 506
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 487 seconds
+2015-04-07 07:41:50,828 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 798 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.21
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 795
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 838 seconds
+2015-04-07 07:55:50,279 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 623 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.08
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 603
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 651 seconds
+2015-04-07 08:06:43,030 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 407 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.1
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 434
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 426 seconds
+2015-04-07 08:13:50,332 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 51 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.000
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 429
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 69 seconds
+2015-04-07 08:15:00,864 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'temporal-strat-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'temporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-temporal-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 444 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.09
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 529
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 467 seconds
+WARNING:  At the moment, this script should only be used to process a directory of input files associated with a single XY file
+
+2015-04-07 08:22:49,780 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 488 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.13
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 582
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 514 seconds
+2015-04-07 08:31:25,168 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 575 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.76
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 552
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 600 seconds
+2015-04-07 08:41:26,796 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 505 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.85
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 605
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 533 seconds
+2015-04-07 08:50:20,876 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 491 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.71
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 472
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 513 seconds
+2015-04-07 08:58:54,759 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 684 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.38
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 669
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 716 seconds
+2015-04-07 09:10:52,251 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 378 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.8
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 447
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 398 seconds
+2015-04-07 09:17:31,541 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 391 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.02
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 458
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 411 seconds
+2015-04-07 09:24:23,816 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 775 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.42
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 755
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 812 seconds
+2015-04-07 09:37:57,513 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 433 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.45
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 455
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 453 seconds
+2015-04-07 09:45:32,306 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 479 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.03
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 516
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 503 seconds
+2015-04-07 09:53:56,254 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 594 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.03
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 720
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 629 seconds
+2015-04-07 10:04:26,598 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 510 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.000
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 614
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 538 seconds
+2015-04-07 10:13:26,478 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 499 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.02
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 543
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 524 seconds
+2015-04-07 10:22:11,881 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 594 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.48
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 650
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 625 seconds
+2015-04-07 10:32:38,155 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 53 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.38
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 499
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 75 seconds
+2015-04-07 10:33:54,244 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 632 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.1
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 617
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 661 seconds
+2015-04-07 10:44:56,693 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 440 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.9
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 513
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 463 seconds
+2015-04-07 10:52:40,634 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-4', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 63 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.000
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 754
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 100 seconds
+2015-04-07 10:54:21,962 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 632 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.68
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 697
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 665 seconds
+2015-04-07 11:05:28,281 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatial-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatial-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatial-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 455 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.8
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 547
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 480 seconds
+WARNING:  At the moment, this script should only be used to process a directory of input files associated with a single XY file
+
+2015-04-07 11:13:29,355 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 286 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.52
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 386
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 303 seconds
+2015-04-07 11:18:33,611 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 198 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.06
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 322
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 212 seconds
+2015-04-07 11:22:06,926 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 267 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.46
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 411
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 285 seconds
+2015-04-07 11:26:53,191 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 176 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.01
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 279
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 188 seconds
+2015-04-07 11:30:02,655 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 216 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.000
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 351
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 230 seconds
+2015-04-07 11:33:54,344 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 279 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.01
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 373
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 295 seconds
+2015-04-07 11:38:50,504 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 222 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.01
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 359
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 237 seconds
+2015-04-07 11:42:48,549 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 167 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.15
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 205
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 176 seconds
+2015-04-07 11:45:45,636 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 146 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.06
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 200
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 155 seconds
+2015-04-07 11:48:21,548 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 176 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.97
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 274
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 187 seconds
+2015-04-07 11:51:30,021 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 142 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.67
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 214
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 151 seconds
+2015-04-07 11:54:02,224 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 185 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.02
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 296
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 197 seconds
+2015-04-07 11:57:20,605 INFO: Processing input file: 18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 290 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.000
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 390
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 307 seconds
+2015-04-07 12:02:29,416 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 195 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.72
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 312
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 208 seconds
+2015-04-07 12:05:58,960 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-1', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 173 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.7
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 278
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 185 seconds
+2015-04-07 12:09:04,789 INFO: Processing input file: c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 247 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.14
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 416
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 265 seconds
+2015-04-07 12:13:31,014 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-3', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 225 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.27
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 329
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 239 seconds
+2015-04-07 12:17:31,007 INFO: Processing input file: 80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-4', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 132 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.32
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 223
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 142 seconds
+2015-04-07 12:19:54,238 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-0', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 187 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.01
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 302
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 199 seconds
+2015-04-07 12:23:14,891 INFO: Processing input file: 992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2.txt
+self.args: {'verbose': True, 'occurrences': None, 'threshold': None, 'mst': None, 'bootstrapCI': 1, 'continuityroot': None, 'atlas': 1, 'continuity': None, 'spatialsignificance': '1', 'graphroot': None, 'individualfileoutput': None, 'spatialbootstrapN': '100', 'debug': '0', 'noheader': None, 'minmaxbycount': None, 'inputfile': 'spatiotemporal-sampled-data/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2.txt', 'occurrenceseriation': None, 'occurrence': None, 'frequency': 1, 'stats': None, 'shapefile': None, 'noscreen': 1, 'excel': 1, 'filtered': 1, 'pairwisefile': None, 'allsolutions': None, 'screen': None, 'largestonly': None, 'outputdirectory': 'spatiotemporal-strat-seriation-results/992bf630-dcc4-11e4-8178-b8f6b1154c9b-0-sampled-500-spatiotemporal-0.1-resample-2', 'bootstrapSignificance': 0.95, 'frequencyseriation': None, 'xyfile': 'xyfiles/seriationct-27XY.txt', 'graphs': '0', 'pdf': None}
+Time elapsed for frequency seriation processing: 191 seconds
+Geographic p-value for the frequency seriation minmax solution:  0.08
+Seriation complete.
+Maximum size of seriation: 3
+Number of frequency seriation solutions at last step: 274
+Assemblages not part of final solution:
+*** All assemblages used in seriations.***
+Time elapsed for completion of program: 202 seconds
+WARNING:  At the moment, this script should only be used to process a directory of input files associated with a single XY file
+
