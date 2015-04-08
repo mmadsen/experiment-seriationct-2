@@ -1,0 +1,32 @@
+strict graph "seriationct-28  random-sampled-seriation-results  ad7b76b8-dd57-11e4-9617-b8f6b1154c9b-0-sampled-500-random-0.04-resample-3  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-28  random-sampled-seriation-results  ad7b76b8-dd57-11e4-9617-b8f6b1154c9b-0-sampled-500-random-0.04-resample-3  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="341.0", appears_in_slice=3, yCoordinate="270.0", colorscheme=accent8, lineage_id=1, short_label="270-341", label="270-341", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=2, penwidth="2.25"];
+1 [xCoordinate="728.0", appears_in_slice=3, yCoordinate="504.0", colorscheme=accent8, lineage_id=2, short_label="504-728", label="504-728", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=1, penwidth="2.25"];
+2 [xCoordinate="569.0", appears_in_slice=7, yCoordinate="256.0", colorscheme=accent8, lineage_id=2, short_label="256-569", label="256-569", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=0, penwidth="5.25"];
+3 [xCoordinate="439.0", appears_in_slice=1, yCoordinate="187.0", colorscheme=accent8, lineage_id=0, short_label="187-439", label="187-439", shape=circle, cluster_id=1, fillcolor=2, size="500.0", id=3, penwidth="0.75"];
+4 [xCoordinate="549.0", appears_in_slice=7, yCoordinate="255.0", colorscheme=accent8, lineage_id=2, short_label="255-549", label="255-549", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=6, penwidth="5.25"];
+5 [xCoordinate="775.0", appears_in_slice=5, yCoordinate="795.0", colorscheme=accent8, lineage_id=1, short_label="795-775", label="795-775", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=5, penwidth="3.75"];
+6 [xCoordinate="946.0", appears_in_slice=4, yCoordinate="843.0", colorscheme=accent8, lineage_id=1, short_label="843-946", label="843-946", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=4, penwidth="3.0"];
+7 [xCoordinate="859.0", appears_in_slice=7, yCoordinate="159.0", colorscheme=accent8, lineage_id=1, short_label="159-859", label="159-859", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=7, penwidth="5.25"];
+8 [xCoordinate="191.0", appears_in_slice=6, yCoordinate="691.0", colorscheme=accent8, lineage_id=2, short_label="691-191", label="691-191", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=8, penwidth="4.5"];
+9 [xCoordinate="639.0", appears_in_slice=3, yCoordinate="185.0", colorscheme=accent8, lineage_id=2, short_label="185-639", label="185-639", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=10, penwidth="2.25"];
+10 [xCoordinate="852.0", appears_in_slice=7, yCoordinate="873.0", colorscheme=accent8, lineage_id=1, short_label="873-852", label="873-852", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=11, penwidth="5.25"];
+11 [xCoordinate="723.0", appears_in_slice=8, yCoordinate="292.0", colorscheme=accent8, lineage_id=2, short_label="292-723", label="292-723", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=9, penwidth="6.0"];
+12 [xCoordinate="991.0", appears_in_slice=2, yCoordinate="601.0", colorscheme=accent8, lineage_id=0, short_label="601-991", label="601-991", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=12, penwidth="1.5"];
+0 -- 9  [inverseweight="17.9953937687", weight="0.0555697759578"];
+1 -- 6  [inverseweight="4.35326076876", weight="0.229712864246"];
+2 -- 10  [inverseweight="4.84820349167", weight="0.20626196935"];
+2 -- 11  [inverseweight="4.04146805023", weight="0.247434839907"];
+2 -- 4  [inverseweight="14.6931774846", weight="0.0680587981087"];
+3 -- 11  [inverseweight="3.39845228944", weight="0.294251593029"];
+5 -- 11  [inverseweight="3.4447550818", weight="0.290296400253"];
+6 -- 11  [inverseweight="3.41888833636", weight="0.292492734953"];
+7 -- 8  [inverseweight="2.23045429702", weight="0.448339157335"];
+7 -- 11  [inverseweight="3.7529331252", weight="0.266458251889"];
+9 -- 11  [inverseweight="3.8209151607", weight="0.261717404847"];
+11 -- 12  [inverseweight="3.75229898741", weight="0.266503283282"];
+}

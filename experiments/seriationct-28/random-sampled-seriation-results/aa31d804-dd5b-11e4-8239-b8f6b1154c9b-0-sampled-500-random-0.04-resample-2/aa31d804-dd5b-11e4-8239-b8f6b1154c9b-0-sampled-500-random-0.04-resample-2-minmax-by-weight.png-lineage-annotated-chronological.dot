@@ -1,0 +1,32 @@
+strict graph "seriationct-28  random-sampled-seriation-results  aa31d804-dd5b-11e4-8239-b8f6b1154c9b-0-sampled-500-random-0.04-resample-2  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-28  random-sampled-seriation-results  aa31d804-dd5b-11e4-8239-b8f6b1154c9b-0-sampled-500-random-0.04-resample-2  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="196.0", appears_in_slice=6, yCoordinate="680.0", colorscheme=accent8, lineage_id=2, short_label="680-196", label="680-196", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=1, penwidth="4.5"];
+1 [xCoordinate="440.0", appears_in_slice=1, yCoordinate="194.0", colorscheme=accent8, lineage_id=0, short_label="194-440", label="194-440", shape=circle, cluster_id=1, fillcolor=2, size="500.0", id=0, penwidth="0.75"];
+2 [xCoordinate="376.0", appears_in_slice=5, yCoordinate="572.0", colorscheme=accent8, lineage_id=2, short_label="572-376", label="572-376", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=2, penwidth="3.75"];
+3 [xCoordinate="569.0", appears_in_slice=7, yCoordinate="256.0", colorscheme=accent8, lineage_id=2, short_label="256-569", label="256-569", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=3, penwidth="5.25"];
+4 [xCoordinate="865.0", appears_in_slice=2, yCoordinate="405.0", colorscheme=accent8, lineage_id=0, short_label="405-865", label="405-865", shape=circle, cluster_id=1, fillcolor=2, size="500.0", id=7, penwidth="1.5"];
+5 [xCoordinate="836.0", appears_in_slice=8, yCoordinate="353.0", colorscheme=accent8, lineage_id=2, short_label="353-836", label="353-836", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=5, penwidth="6.0"];
+6 [xCoordinate="521.0", appears_in_slice=5, yCoordinate="109.0", colorscheme=accent8, lineage_id=1, short_label="109-521", label="109-521", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=6, penwidth="3.75"];
+7 [xCoordinate="908.0", appears_in_slice=7, yCoordinate="793.0", colorscheme=accent8, lineage_id=2, short_label="793-908", label="793-908", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=4, penwidth="5.25"];
+8 [xCoordinate="865.0", appears_in_slice=7, yCoordinate="157.0", colorscheme=accent8, lineage_id=1, short_label="157-865", label="157-865", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=8, penwidth="5.25"];
+9 [xCoordinate="218.0", appears_in_slice=1, yCoordinate="583.0", colorscheme=accent8, lineage_id=0, short_label="583-218", label="583-218", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=9, penwidth="0.75"];
+10 [xCoordinate="216.0", appears_in_slice=4, yCoordinate="760.0", colorscheme=accent8, lineage_id=2, short_label="760-216", label="760-216", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=10, penwidth="3.0"];
+11 [xCoordinate="529.0", appears_in_slice=6, yCoordinate="594.0", colorscheme=accent8, lineage_id=1, short_label="594-529", label="594-529", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=11, penwidth="4.5"];
+12 [xCoordinate="970.0", appears_in_slice=4, yCoordinate="859.0", colorscheme=accent8, lineage_id=1, short_label="859-970", label="859-970", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=12, penwidth="3.0"];
+0 -- 6  [inverseweight="2.55808862265", weight="0.390916870959"];
+1 -- 4  [inverseweight="3.02403375634", weight="0.330684139323"];
+2 -- 4  [inverseweight="2.63537779742", weight="0.379452236783"];
+3 -- 10  [inverseweight="2.28670758589", weight="0.437309958725"];
+4 -- 12  [inverseweight="3.28592003099", weight="0.30432876959"];
+5 -- 12  [inverseweight="2.9624721029", weight="0.337555921293"];
+6 -- 12  [inverseweight="3.18632963709", weight="0.313840723935"];
+7 -- 8  [inverseweight="11.4768287201", weight="0.0871320836432"];
+8 -- 12  [inverseweight="2.83487529488", weight="0.352749202692"];
+9 -- 10  [inverseweight="2.70916172974", weight="0.369117867354"];
+10 -- 12  [inverseweight="4.27835137941", weight="0.23373489256"];
+11 -- 12  [inverseweight="2.81744919037", weight="0.354930979206"];
+}

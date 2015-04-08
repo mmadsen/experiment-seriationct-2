@@ -1,0 +1,32 @@
+strict graph "seriationct-28  random-sampled-seriation-results  ad7b76b8-dd57-11e4-9617-b8f6b1154c9b-0-sampled-500-random-0.04-resample-0  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-28  random-sampled-seriation-results  ad7b76b8-dd57-11e4-9617-b8f6b1154c9b-0-sampled-500-random-0.04-resample-0  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="427.0", appears_in_slice=1, yCoordinate="196.0", colorscheme=accent7, lineage_id=0, short_label="196-427", label="196-427", shape=circle, cluster_id=1, fillcolor=2, size="500.0", id=0, penwidth="0.857142857143"];
+1 [xCoordinate="432.0", appears_in_slice=1, yCoordinate="188.0", colorscheme=accent7, lineage_id=0, short_label="188-432", label="188-432", shape=circle, cluster_id=1, fillcolor=2, size="500.0", id=1, penwidth="0.857142857143"];
+2 [xCoordinate="187.0", appears_in_slice=6, yCoordinate="689.0", colorscheme=accent7, lineage_id=2, short_label="689-187", label="689-187", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=8, penwidth="5.14285714286"];
+3 [xCoordinate="190.0", appears_in_slice=1, yCoordinate="573.0", colorscheme=accent7, lineage_id=0, short_label="573-190", label="573-190", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=2, penwidth="0.857142857143"];
+4 [xCoordinate="183.0", appears_in_slice=6, yCoordinate="199.0", colorscheme=accent7, lineage_id=1, short_label="199-183", label="199-183", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=3, penwidth="5.14285714286"];
+5 [xCoordinate="134.0", appears_in_slice=4, yCoordinate="817.0", colorscheme=accent7, lineage_id=1, short_label="817-134", label="817-134", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=4, penwidth="3.42857142857"];
+6 [xCoordinate="965.0", appears_in_slice=4, yCoordinate="858.0", colorscheme=accent7, lineage_id=1, short_label="858-965", label="858-965", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=5, penwidth="3.42857142857"];
+7 [xCoordinate="734.0", appears_in_slice=5, yCoordinate="498.0", colorscheme=accent7, lineage_id=2, short_label="498-734", label="498-734", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=7, penwidth="4.28571428571"];
+8 [xCoordinate="929.0", appears_in_slice=7, yCoordinate="781.0", colorscheme=accent7, lineage_id=2, short_label="781-929", label="781-929", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=12, penwidth="6.0"];
+9 [xCoordinate="216.0", appears_in_slice=4, yCoordinate="760.0", colorscheme=accent7, lineage_id=2, short_label="760-216", label="760-216", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=9, penwidth="3.42857142857"];
+10 [xCoordinate="349.0", appears_in_slice=3, yCoordinate="261.0", colorscheme=accent7, lineage_id=1, short_label="261-349", label="261-349", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=10, penwidth="2.57142857143"];
+11 [xCoordinate="555.0", appears_in_slice=7, yCoordinate="262.0", colorscheme=accent7, lineage_id=2, short_label="262-555", label="262-555", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=11, penwidth="6.0"];
+12 [xCoordinate="991.0", appears_in_slice=2, yCoordinate="601.0", colorscheme=accent7, lineage_id=0, short_label="601-991", label="601-991", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=6, penwidth="1.71428571429"];
+0 -- 1  [inverseweight="15.5945715388", weight="0.0641248781675"];
+0 -- 3  [inverseweight="3.66637499777", weight="0.272748968834"];
+2 -- 4  [inverseweight="13.469311461", weight="0.0742428447731"];
+3 -- 4  [inverseweight="3.8730608082", weight="0.258193725718"];
+3 -- 6  [inverseweight="3.60712432467", weight="0.277229147097"];
+3 -- 8  [inverseweight="3.78029283585", weight="0.264529771481"];
+3 -- 10  [inverseweight="3.48824003668", weight="0.286677519174"];
+3 -- 11  [inverseweight="3.77899695756", weight="0.264620482956"];
+3 -- 12  [inverseweight="3.83550185724", weight="0.260722074248"];
+4 -- 7  [inverseweight="3.67388928481", weight="0.272191109333"];
+5 -- 6  [inverseweight="3.55226899049", weight="0.281510212959"];
+6 -- 9  [inverseweight="3.96027957392", weight="0.252507425633"];
+}

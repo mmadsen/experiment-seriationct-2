@@ -1,0 +1,30 @@
+strict graph "seriationct-28  temporal-strat-seriation-results  6dde6552-dd5b-11e4-9821-b8f6b1154c9b-0-sampled-500-temporal-0.04-resample-3  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-28  temporal-strat-seriation-results  6dde6552-dd5b-11e4-9821-b8f6b1154c9b-0-sampled-500-temporal-0.04-resample-3  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="862.0", appears_in_slice=7, yCoordinate="876.0", colorscheme=accent8, lineage_id=1, short_label="876-862", label="876-862", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=11, penwidth="5.25"];
+1 [xCoordinate="742.0", appears_in_slice=3, yCoordinate="473.0", colorscheme=accent8, lineage_id=2, short_label="473-742", label="473-742", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=9, penwidth="2.25"];
+2 [xCoordinate="729.0", appears_in_slice=3, yCoordinate="489.0", colorscheme=accent8, lineage_id=2, short_label="489-729", label="489-729", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=3, penwidth="2.25"];
+3 [xCoordinate="239.0", appears_in_slice=4, yCoordinate="771.0", colorscheme=accent8, lineage_id=2, short_label="771-239", label="771-239", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=4, penwidth="3.0"];
+4 [xCoordinate="795.0", appears_in_slice=5, yCoordinate="780.0", colorscheme=accent8, lineage_id=1, short_label="780-795", label="780-795", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=5, penwidth="3.75"];
+5 [xCoordinate="467.0", appears_in_slice=2, yCoordinate="468.0", colorscheme=accent8, lineage_id=0, short_label="468-467", label="468-467", shape=circle, cluster_id=2, fillcolor=3, size="500.0", id=6, penwidth="1.5"];
+6 [xCoordinate="718.0", appears_in_slice=8, yCoordinate="270.0", colorscheme=accent8, lineage_id=2, short_label="270-718", label="270-718", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=7, penwidth="6.0"];
+7 [xCoordinate="558.0", appears_in_slice=7, yCoordinate="256.0", colorscheme=accent8, lineage_id=2, short_label="256-558", label="256-558", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=8, penwidth="5.25"];
+8 [xCoordinate="835.0", appears_in_slice=8, yCoordinate="342.0", colorscheme=accent8, lineage_id=2, short_label="342-835", label="342-835", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=0, penwidth="6.0"];
+9 [xCoordinate="438.0", appears_in_slice=1, yCoordinate="831.0", colorscheme=accent8, lineage_id=0, short_label="831-438", label="831-438", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=2, penwidth="0.75"];
+10 [xCoordinate="725.0", appears_in_slice=5, yCoordinate="490.0", colorscheme=accent8, lineage_id=2, short_label="490-725", label="490-725", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=10, penwidth="3.75"];
+11 [xCoordinate="383.0", appears_in_slice=5, yCoordinate="564.0", colorscheme=accent8, lineage_id=2, short_label="564-383", label="564-383", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=1, penwidth="3.75"];
+0 -- 8  [inverseweight="2.57923917476", weight="0.387711232749"];
+1 -- 10  [inverseweight="2.99934021772", weight="0.333406658602"];
+2 -- 3  [inverseweight="2.68213172139", weight="0.372837766327"];
+3 -- 10  [inverseweight="3.35804999583", weight="0.29779187363"];
+4 -- 10  [inverseweight="2.72577733899", weight="0.36686782361"];
+5 -- 10  [inverseweight="3.44197883101", weight="0.290530549168"];
+6 -- 10  [inverseweight="3.03784423574", weight="0.329180801384"];
+6 -- 7  [inverseweight="2.80421352391", weight="0.356606225408"];
+8 -- 10  [inverseweight="2.99707627963", weight="0.333658508059"];
+9 -- 10  [inverseweight="3.54262625791", weight="0.28227646023"];
+10 -- 11  [inverseweight="3.40664589921", weight="0.293543863843"];
+}

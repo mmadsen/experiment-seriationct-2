@@ -1,0 +1,32 @@
+strict graph "seriationct-28  random-sampled-seriation-results  6dde6552-dd5b-11e4-9821-b8f6b1154c9b-0-sampled-500-random-0.04-resample-3  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-28  random-sampled-seriation-results  6dde6552-dd5b-11e4-9821-b8f6b1154c9b-0-sampled-500-random-0.04-resample-3  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="434.0", appears_in_slice=1, yCoordinate="204.0", colorscheme=accent6, lineage_id=0, short_label="204-434", label="204-434", shape=circle, cluster_id=1, fillcolor=2, size="500.0", id=3, penwidth="1.0"];
+1 [xCoordinate="359.0", appears_in_slice=3, yCoordinate="234.0", colorscheme=accent6, lineage_id=1, short_label="234-359", label="234-359", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=1, penwidth="3.0"];
+2 [xCoordinate="411.0", appears_in_slice=1, yCoordinate="939.0", colorscheme=accent6, lineage_id=0, short_label="939-411", label="939-411", shape=circle, cluster_id=2, fillcolor=3, size="500.0", id=2, penwidth="1.0"];
+3 [xCoordinate="954.0", appears_in_slice=3, yCoordinate="690.0", colorscheme=accent6, lineage_id=1, short_label="690-954", label="690-954", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=0, penwidth="3.0"];
+4 [xCoordinate="206.0", appears_in_slice=1, yCoordinate="580.0", colorscheme=accent6, lineage_id=0, short_label="580-206", label="580-206", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=4, penwidth="1.0"];
+5 [xCoordinate="354.0", appears_in_slice=2, yCoordinate="898.0", colorscheme=accent6, lineage_id=0, short_label="898-354", label="898-354", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=5, penwidth="2.0"];
+6 [xCoordinate="239.0", appears_in_slice=4, yCoordinate="771.0", colorscheme=accent6, lineage_id=2, short_label="771-239", label="771-239", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=6, penwidth="4.0"];
+7 [xCoordinate="946.0", appears_in_slice=4, yCoordinate="843.0", colorscheme=accent6, lineage_id=1, short_label="843-946", label="843-946", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=7, penwidth="4.0"];
+8 [xCoordinate="947.0", appears_in_slice=6, yCoordinate="793.0", colorscheme=accent6, lineage_id=2, short_label="793-947", label="793-947", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=8, penwidth="6.0"];
+9 [xCoordinate="648.0", appears_in_slice=3, yCoordinate="171.0", colorscheme=accent6, lineage_id=2, short_label="171-648", label="171-648", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=9, penwidth="3.0"];
+10 [xCoordinate="174.0", appears_in_slice=6, yCoordinate="688.0", colorscheme=accent6, lineage_id=2, short_label="688-174", label="688-174", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=10, penwidth="6.0"];
+11 [xCoordinate="501.0", appears_in_slice=6, yCoordinate="599.0", colorscheme=accent6, lineage_id=1, short_label="599-501", label="599-501", shape=square, cluster_id=2, fillcolor=3, size="500.0", id=11, penwidth="6.0"];
+12 [xCoordinate="729.0", appears_in_slice=5, yCoordinate="509.0", colorscheme=accent6, lineage_id=2, short_label="509-729", label="509-729", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=12, penwidth="5.0"];
+0 -- 1  [inverseweight="2.61397042232", weight="0.382559799247"];
+0 -- 3  [inverseweight="3.05286945833", weight="0.327560681401"];
+0 -- 12  [inverseweight="3.6157912329", weight="0.276564639822"];
+0 -- 7  [inverseweight="3.20855798482", weight="0.311666488413"];
+2 -- 12  [inverseweight="3.44704645712", weight="0.290103429831"];
+4 -- 5  [inverseweight="2.84772028723", weight="0.351158084059"];
+5 -- 12  [inverseweight="3.48620449476", weight="0.286844905829"];
+6 -- 12  [inverseweight="3.6495378153", weight="0.274007299173"];
+8 -- 10  [inverseweight="2.54797124665", weight="0.392469107064"];
+9 -- 12  [inverseweight="2.99556983255", weight="0.333826302139"];
+10 -- 12  [inverseweight="3.46404619084", weight="0.28867975336"];
+11 -- 12  [inverseweight="2.70140066116", weight="0.370178335401"];
+}
