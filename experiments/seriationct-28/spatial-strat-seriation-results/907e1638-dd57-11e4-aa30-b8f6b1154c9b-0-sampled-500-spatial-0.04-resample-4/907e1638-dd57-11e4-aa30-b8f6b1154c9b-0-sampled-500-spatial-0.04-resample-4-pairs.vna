@@ -1,0 +1,96 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-410-845 500.0 0.000845 0.00529 845.0 410.0
+assemblage-593-528 500.0 0.000528 0.00346 528.0 593.0
+assemblage-234-359 500.0 0.000359 0.00705 359.0 234.0
+assemblage-334-827 500.0 0.000827 0.00605 827.0 334.0
+assemblage-809-964 500.0 0.000964 0.0013 964.0 809.0
+assemblage-856-725 500.0 0.000725 0.00083 725.0 856.0
+assemblage-350-846 500.0 0.000846 0.00589 846.0 350.0
+assemblage-836-438 500.0 0.000438 0.00103 438.0 836.0
+assemblage-759-225 500.0 0.000225 0.0018 225.0 759.0
+assemblage-688-174 500.0 0.000174 0.00251 174.0 688.0
+assemblage-863-716 500.0 0.000716 0.00076 716.0 863.0
+assemblage-557-205 500.0 0.000205 0.00382 205.0 557.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-410-845 500.0 0.000845 0.00529 845.0 410.0
+assemblage-593-528 500.0 0.000528 0.00346 528.0 593.0
+assemblage-234-359 500.0 0.000359 0.00705 359.0 234.0
+assemblage-334-827 500.0 0.000827 0.00605 827.0 334.0
+assemblage-809-964 500.0 0.000964 0.0013 964.0 809.0
+assemblage-856-725 500.0 0.000725 0.00083 725.0 856.0
+assemblage-350-846 500.0 0.000846 0.00589 846.0 350.0
+assemblage-836-438 500.0 0.000438 0.00103 438.0 836.0
+assemblage-759-225 500.0 0.000225 0.0018 225.0 759.0
+assemblage-688-174 500.0 0.000174 0.00251 174.0 688.0
+assemblage-863-716 500.0 0.000716 0.00076 716.0 863.0
+assemblage-557-205 500.0 0.000205 0.00382 205.0 557.0
+*Tie data
+From To Edge Count
+assemblage-557-205	assemblage-759-225	 1 1
+assemblage-410-845	assemblage-759-225	 1 1
+assemblage-688-174	assemblage-863-716	 1 1
+assemblage-334-827	assemblage-856-725	 1 1
+assemblage-863-716	assemblage-759-225	 1 1
+assemblage-863-716	assemblage-836-438	 1 1
+assemblage-350-846	assemblage-863-716	 1 1
+assemblage-557-205	assemblage-809-964	 1 1
+assemblage-350-846	assemblage-759-225	 1 1
+assemblage-593-528	assemblage-856-725	 1 1
+assemblage-593-528	assemblage-350-846	 1 1
+assemblage-593-528	assemblage-809-964	 1 1
+assemblage-593-528	assemblage-688-174	 1 1
+assemblage-410-845	assemblage-809-964	 1 1
+assemblage-836-438	assemblage-234-359	 1 1
+assemblage-410-845	assemblage-688-174	 1 1
+assemblage-863-716	assemblage-809-964	 1 1
+assemblage-688-174	assemblage-334-827	 1 1
+assemblage-688-174	assemblage-809-964	 1 1
+assemblage-593-528	assemblage-863-716	 1 1
+assemblage-350-846	assemblage-809-964	 1 1
+assemblage-809-964	assemblage-856-725	 1 1
+assemblage-410-845	assemblage-350-846	 1 1
+assemblage-350-846	assemblage-688-174	 1 1
+assemblage-410-845	assemblage-856-725	 1 1
+assemblage-863-716	assemblage-334-827	 1 1
+assemblage-836-438	assemblage-809-964	 1 1
+assemblage-688-174	assemblage-856-725	 1 1
+assemblage-334-827	assemblage-759-225	 1 1
+assemblage-350-846	assemblage-836-438	 1 1
+assemblage-809-964	assemblage-836-438	 1 1
+assemblage-350-846	assemblage-856-725	 1 1
+assemblage-557-205	assemblage-234-359	 1 1
+assemblage-688-174	assemblage-836-438	 1 1
+assemblage-836-438	assemblage-759-225	 1 1
+assemblage-809-964	assemblage-334-827	 1 1
+assemblage-809-964	assemblage-234-359	 1 1
+assemblage-350-846	assemblage-334-827	 1 1
+assemblage-350-846	assemblage-234-359	 1 1
+assemblage-234-359	assemblage-856-725	 1 1
+assemblage-759-225	assemblage-856-725	 1 1
+assemblage-836-438	assemblage-557-205	 1 1
+assemblage-863-716	assemblage-234-359	 1 1
+assemblage-593-528	assemblage-334-827	 1 1
+assemblage-836-438	assemblage-863-716	 1 1
+assemblage-350-846	assemblage-557-205	 1 1
+assemblage-809-964	assemblage-759-225	 1 1
+assemblage-593-528	assemblage-234-359	 1 1
+assemblage-593-528	assemblage-759-225	 1 1
+assemblage-410-845	assemblage-234-359	 1 1
+assemblage-836-438	assemblage-856-725	 1 1
+assemblage-557-205	assemblage-836-438	 1 1
+assemblage-809-964	assemblage-863-716	 1 1
+assemblage-688-174	assemblage-234-359	 1 1
+assemblage-234-359	assemblage-334-827	 1 1
+assemblage-688-174	assemblage-759-225	 1 1
+assemblage-410-845	assemblage-836-438	 1 1
+assemblage-557-205	assemblage-334-827	 1 1
+assemblage-410-845	assemblage-593-528	 1 1
+assemblage-863-716	assemblage-856-725	 1 1
+assemblage-557-205	assemblage-856-725	 1 1
+assemblage-234-359	assemblage-759-225	 1 1
+assemblage-836-438	assemblage-334-827	 1 1
+assemblage-593-528	assemblage-836-438	 1 1
+assemblage-410-845	assemblage-334-827	 1 1
+assemblage-688-174	assemblage-557-205	 1 1

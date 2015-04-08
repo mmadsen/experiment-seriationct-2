@@ -1,0 +1,90 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-383-837 500.0 0.000837 0.00556 837.0 383.0
+assemblage-261-563 500.0 0.000563 0.00678 563.0 261.0
+assemblage-886-342 500.0 0.000342 0.00053 342.0 886.0
+assemblage-495-723 500.0 0.000723 0.00444 723.0 495.0
+assemblage-795-775 500.0 0.000775 0.00144 775.0 795.0
+assemblage-905-347 500.0 0.000347 0.00034 347.0 905.0
+assemblage-813-456 500.0 0.000456 0.00126 456.0 813.0
+assemblage-344-834 500.0 0.000834 0.00595 834.0 344.0
+assemblage-190-629 500.0 0.000629 0.00749 629.0 190.0
+assemblage-171-648 500.0 0.000648 0.00768 648.0 171.0
+assemblage-706-975 500.0 0.000975 0.00233 975.0 706.0
+assemblage-267-577 500.0 0.000577 0.00672 577.0 267.0
+assemblage-346-837 500.0 0.000837 0.00593 837.0 346.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-383-837 500.0 0.000837 0.00556 837.0 383.0
+assemblage-261-563 500.0 0.000563 0.00678 563.0 261.0
+assemblage-886-342 500.0 0.000342 0.00053 342.0 886.0
+assemblage-495-723 500.0 0.000723 0.00444 723.0 495.0
+assemblage-795-775 500.0 0.000775 0.00144 775.0 795.0
+assemblage-905-347 500.0 0.000347 0.00034 347.0 905.0
+assemblage-813-456 500.0 0.000456 0.00126 456.0 813.0
+assemblage-344-834 500.0 0.000834 0.00595 834.0 344.0
+assemblage-190-629 500.0 0.000629 0.00749 629.0 190.0
+assemblage-171-648 500.0 0.000648 0.00768 648.0 171.0
+assemblage-706-975 500.0 0.000975 0.00233 975.0 706.0
+assemblage-267-577 500.0 0.000577 0.00672 577.0 267.0
+assemblage-346-837 500.0 0.000837 0.00593 837.0 346.0
+*Tie data
+From To Edge Count
+assemblage-190-629	assemblage-495-723	 1 1
+assemblage-190-629	assemblage-813-456	 1 1
+assemblage-706-975	assemblage-813-456	 1 1
+assemblage-346-837	assemblage-267-577	 1 1
+assemblage-383-837	assemblage-344-834	 1 1
+assemblage-795-775	assemblage-344-834	 1 1
+assemblage-706-975	assemblage-495-723	 1 1
+assemblage-383-837	assemblage-261-563	 1 1
+assemblage-886-342	assemblage-171-648	 1 1
+assemblage-813-456	assemblage-346-837	 1 1
+assemblage-886-342	assemblage-344-834	 1 1
+assemblage-905-347	assemblage-344-834	 1 1
+assemblage-905-347	assemblage-495-723	 1 1
+assemblage-886-342	assemblage-267-577	 1 1
+assemblage-905-347	assemblage-706-975	 1 1
+assemblage-886-342	assemblage-190-629	 1 1
+assemblage-795-775	assemblage-190-629	 1 1
+assemblage-171-648	assemblage-495-723	 1 1
+assemblage-344-834	assemblage-346-837	 1 1
+assemblage-383-837	assemblage-795-775	 1 1
+assemblage-795-775	assemblage-267-577	 1 1
+assemblage-905-347	assemblage-261-563	 1 1
+assemblage-261-563	assemblage-495-723	 1 1
+assemblage-383-837	assemblage-886-342	 1 1
+assemblage-261-563	assemblage-813-456	 1 1
+assemblage-344-834	assemblage-171-648	 1 1
+assemblage-886-342	assemblage-795-775	 1 1
+assemblage-813-456	assemblage-171-648	 1 1
+assemblage-344-834	assemblage-267-577	 1 1
+assemblage-886-342	assemblage-495-723	 1 1
+assemblage-886-342	assemblage-905-347	 1 1
+assemblage-795-775	assemblage-261-563	 1 1
+assemblage-706-975	assemblage-344-834	 1 1
+assemblage-383-837	assemblage-495-723	 1 1
+assemblage-261-563	assemblage-344-834	 1 1
+assemblage-813-456	assemblage-190-629	 1 1
+assemblage-495-723	assemblage-171-648	 1 1
+assemblage-171-648	assemblage-905-347	 1 1
+assemblage-905-347	assemblage-171-648	 1 1
+assemblage-344-834	assemblage-190-629	 1 1
+assemblage-813-456	assemblage-267-577	 1 1
+assemblage-495-723	assemblage-813-456	 1 1
+assemblage-795-775	assemblage-171-648	 1 1
+assemblage-813-456	assemblage-344-834	 1 1
+assemblage-171-648	assemblage-344-834	 1 1
+assemblage-886-342	assemblage-813-456	 1 1
+assemblage-795-775	assemblage-706-975	 1 1
+assemblage-886-342	assemblage-706-975	 1 1
+assemblage-344-834	assemblage-495-723	 1 1
+assemblage-267-577	assemblage-495-723	 1 1
+assemblage-171-648	assemblage-813-456	 1 1
+assemblage-795-775	assemblage-813-456	 1 1
+assemblage-795-775	assemblage-905-347	 1 1
+assemblage-795-775	assemblage-886-342	 1 1
+assemblage-905-347	assemblage-190-629	 1 1
+assemblage-795-775	assemblage-495-723	 1 1
+assemblage-905-347	assemblage-813-456	 1 1
+assemblage-886-342	assemblage-261-563	 1 1

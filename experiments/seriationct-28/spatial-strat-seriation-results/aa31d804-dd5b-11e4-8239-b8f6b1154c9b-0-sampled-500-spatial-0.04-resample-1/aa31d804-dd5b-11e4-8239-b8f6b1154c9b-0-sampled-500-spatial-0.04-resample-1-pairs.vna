@@ -1,0 +1,86 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-485-487 500.0 0.000487 0.00454 487.0 485.0
+assemblage-507-711 500.0 0.000711 0.00432 711.0 507.0
+assemblage-870-700 500.0 0.0007 0.00069 700.0 870.0
+assemblage-256-569 500.0 0.000569 0.00683 569.0 256.0
+assemblage-933-414 500.0 0.000414 6e-05 414.0 933.0
+assemblage-166-862 500.0 0.000862 0.00773 862.0 166.0
+assemblage-145-858 500.0 0.000858 0.00794 858.0 145.0
+assemblage-603-506 500.0 0.000506 0.00336 506.0 603.0
+assemblage-924-398 500.0 0.000398 0.00015 398.0 924.0
+assemblage-562-395 500.0 0.000395 0.00377 395.0 562.0
+assemblage-696-970 500.0 0.00097 0.00243 970.0 696.0
+assemblage-780-948 500.0 0.000948 0.00159 948.0 780.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-485-487 500.0 0.000487 0.00454 487.0 485.0
+assemblage-507-711 500.0 0.000711 0.00432 711.0 507.0
+assemblage-870-700 500.0 0.0007 0.00069 700.0 870.0
+assemblage-256-569 500.0 0.000569 0.00683 569.0 256.0
+assemblage-933-414 500.0 0.000414 6e-05 414.0 933.0
+assemblage-166-862 500.0 0.000862 0.00773 862.0 166.0
+assemblage-145-858 500.0 0.000858 0.00794 858.0 145.0
+assemblage-603-506 500.0 0.000506 0.00336 506.0 603.0
+assemblage-924-398 500.0 0.000398 0.00015 398.0 924.0
+assemblage-562-395 500.0 0.000395 0.00377 395.0 562.0
+assemblage-696-970 500.0 0.00097 0.00243 970.0 696.0
+assemblage-780-948 500.0 0.000948 0.00159 948.0 780.0
+*Tie data
+From To Edge Count
+assemblage-780-948	assemblage-562-395	 1 1
+assemblage-166-862	assemblage-603-506	 1 1
+assemblage-166-862	assemblage-696-970	 1 1
+assemblage-933-414	assemblage-166-862	 1 1
+assemblage-145-858	assemblage-780-948	 1 1
+assemblage-924-398	assemblage-145-858	 1 1
+assemblage-933-414	assemblage-924-398	 1 1
+assemblage-933-414	assemblage-870-700	 1 1
+assemblage-145-858	assemblage-166-862	 1 1
+assemblage-485-487	assemblage-696-970	 1 1
+assemblage-485-487	assemblage-933-414	 1 1
+assemblage-924-398	assemblage-562-395	 1 1
+assemblage-933-414	assemblage-780-948	 1 1
+assemblage-507-711	assemblage-603-506	 1 1
+assemblage-145-858	assemblage-696-970	 1 1
+assemblage-485-487	assemblage-145-858	 1 1
+assemblage-696-970	assemblage-562-395	 1 1
+assemblage-485-487	assemblage-924-398	 1 1
+assemblage-696-970	assemblage-166-862	 1 1
+assemblage-145-858	assemblage-603-506	 1 1
+assemblage-166-862	assemblage-256-569	 1 1
+assemblage-933-414	assemblage-696-970	 1 1
+assemblage-166-862	assemblage-562-395	 1 1
+assemblage-166-862	assemblage-870-700	 1 1
+assemblage-924-398	assemblage-256-569	 1 1
+assemblage-145-858	assemblage-870-700	 1 1
+assemblage-145-858	assemblage-256-569	 1 1
+assemblage-603-506	assemblage-256-569	 1 1
+assemblage-696-970	assemblage-933-414	 1 1
+assemblage-603-506	assemblage-145-858	 1 1
+assemblage-145-858	assemblage-933-414	 1 1
+assemblage-603-506	assemblage-166-862	 1 1
+assemblage-780-948	assemblage-145-858	 1 1
+assemblage-933-414	assemblage-562-395	 1 1
+assemblage-485-487	assemblage-507-711	 1 1
+assemblage-696-970	assemblage-145-858	 1 1
+assemblage-485-487	assemblage-166-862	 1 1
+assemblage-562-395	assemblage-256-569	 1 1
+assemblage-507-711	assemblage-145-858	 1 1
+assemblage-870-700	assemblage-924-398	 1 1
+assemblage-696-970	assemblage-780-948	 1 1
+assemblage-780-948	assemblage-256-569	 1 1
+assemblage-166-862	assemblage-924-398	 1 1
+assemblage-507-711	assemblage-870-700	 1 1
+assemblage-870-700	assemblage-256-569	 1 1
+assemblage-507-711	assemblage-256-569	 1 1
+assemblage-485-487	assemblage-256-569	 1 1
+assemblage-145-858	assemblage-924-398	 1 1
+assemblage-145-858	assemblage-562-395	 1 1
+assemblage-696-970	assemblage-256-569	 1 1
+assemblage-933-414	assemblage-603-506	 1 1
+assemblage-507-711	assemblage-933-414	 1 1
+assemblage-485-487	assemblage-870-700	 1 1
+assemblage-603-506	assemblage-870-700	 1 1
+assemblage-933-414	assemblage-256-569	 1 1
+assemblage-507-711	assemblage-166-862	 1 1

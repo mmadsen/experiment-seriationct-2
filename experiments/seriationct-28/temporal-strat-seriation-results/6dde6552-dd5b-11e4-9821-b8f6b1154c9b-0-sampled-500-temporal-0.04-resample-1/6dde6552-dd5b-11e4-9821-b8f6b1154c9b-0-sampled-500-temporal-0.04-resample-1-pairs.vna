@@ -1,0 +1,90 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-147-839 500.0 0.000839 0.00792 839.0 147.0
+assemblage-771-223 500.0 0.000223 0.00168 223.0 771.0
+assemblage-573-190 500.0 0.00019 0.00366 190.0 573.0
+assemblage-937-400 500.0 0.0004 2e-05 400.0 937.0
+assemblage-198-208 500.0 0.000208 0.00741 208.0 198.0
+assemblage-858-965 500.0 0.000965 0.00081 965.0 858.0
+assemblage-121-500 500.0 0.0005 0.00818 500.0 121.0
+assemblage-159-859 500.0 0.000859 0.0078 859.0 159.0
+assemblage-298-722 500.0 0.000722 0.00641 722.0 298.0
+assemblage-924-398 500.0 0.000398 0.00015 398.0 924.0
+assemblage-292-723 500.0 0.000723 0.00647 723.0 292.0
+assemblage-909-424 500.0 0.000424 0.0003 424.0 909.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-147-839 500.0 0.000839 0.00792 839.0 147.0
+assemblage-771-223 500.0 0.000223 0.00168 223.0 771.0
+assemblage-573-190 500.0 0.00019 0.00366 190.0 573.0
+assemblage-937-400 500.0 0.0004 2e-05 400.0 937.0
+assemblage-198-208 500.0 0.000208 0.00741 208.0 198.0
+assemblage-858-965 500.0 0.000965 0.00081 965.0 858.0
+assemblage-121-500 500.0 0.0005 0.00818 500.0 121.0
+assemblage-159-859 500.0 0.000859 0.0078 859.0 159.0
+assemblage-298-722 500.0 0.000722 0.00641 722.0 298.0
+assemblage-924-398 500.0 0.000398 0.00015 398.0 924.0
+assemblage-292-723 500.0 0.000723 0.00647 723.0 292.0
+assemblage-909-424 500.0 0.000424 0.0003 424.0 909.0
+*Tie data
+From To Edge Count
+assemblage-909-424	assemblage-292-723	 1 1
+assemblage-292-723	assemblage-298-722	 1 1
+assemblage-937-400	assemblage-292-723	 1 1
+assemblage-121-500	assemblage-298-722	 1 1
+assemblage-937-400	assemblage-159-859	 1 1
+assemblage-924-398	assemblage-198-208	 1 1
+assemblage-121-500	assemblage-858-965	 1 1
+assemblage-937-400	assemblage-147-839	 1 1
+assemblage-121-500	assemblage-771-223	 1 1
+assemblage-909-424	assemblage-924-398	 1 1
+assemblage-909-424	assemblage-298-722	 1 1
+assemblage-909-424	assemblage-937-400	 1 1
+assemblage-924-398	assemblage-573-190	 1 1
+assemblage-937-400	assemblage-924-398	 1 1
+assemblage-937-400	assemblage-121-500	 1 1
+assemblage-198-208	assemblage-771-223	 1 1
+assemblage-937-400	assemblage-771-223	 1 1
+assemblage-198-208	assemblage-924-398	 1 1
+assemblage-159-859	assemblage-198-208	 1 1
+assemblage-198-208	assemblage-573-190	 1 1
+assemblage-121-500	assemblage-573-190	 1 1
+assemblage-147-839	assemblage-573-190	 1 1
+assemblage-159-859	assemblage-771-223	 1 1
+assemblage-298-722	assemblage-924-398	 1 1
+assemblage-292-723	assemblage-573-190	 1 1
+assemblage-159-859	assemblage-573-190	 1 1
+assemblage-121-500	assemblage-147-839	 1 1
+assemblage-924-398	assemblage-292-723	 1 1
+assemblage-292-723	assemblage-924-398	 1 1
+assemblage-159-859	assemblage-298-722	 1 1
+assemblage-909-424	assemblage-573-190	 1 1
+assemblage-159-859	assemblage-292-723	 1 1
+assemblage-858-965	assemblage-573-190	 1 1
+assemblage-198-208	assemblage-121-500	 1 1
+assemblage-909-424	assemblage-198-208	 1 1
+assemblage-292-723	assemblage-147-839	 1 1
+assemblage-937-400	assemblage-858-965	 1 1
+assemblage-147-839	assemblage-198-208	 1 1
+assemblage-937-400	assemblage-198-208	 1 1
+assemblage-147-839	assemblage-771-223	 1 1
+assemblage-771-223	assemblage-858-965	 1 1
+assemblage-937-400	assemblage-298-722	 1 1
+assemblage-121-500	assemblage-159-859	 1 1
+assemblage-298-722	assemblage-198-208	 1 1
+assemblage-924-398	assemblage-858-965	 1 1
+assemblage-292-723	assemblage-198-208	 1 1
+assemblage-909-424	assemblage-159-859	 1 1
+assemblage-159-859	assemblage-858-965	 1 1
+assemblage-159-859	assemblage-121-500	 1 1
+assemblage-121-500	assemblage-924-398	 1 1
+assemblage-771-223	assemblage-573-190	 1 1
+assemblage-937-400	assemblage-573-190	 1 1
+assemblage-147-839	assemblage-858-965	 1 1
+assemblage-858-965	assemblage-198-208	 1 1
+assemblage-198-208	assemblage-858-965	 1 1
+assemblage-924-398	assemblage-771-223	 1 1
+assemblage-298-722	assemblage-573-190	 1 1
+assemblage-159-859	assemblage-924-398	 1 1
+assemblage-121-500	assemblage-198-208	 1 1
+assemblage-298-722	assemblage-121-500	 1 1
