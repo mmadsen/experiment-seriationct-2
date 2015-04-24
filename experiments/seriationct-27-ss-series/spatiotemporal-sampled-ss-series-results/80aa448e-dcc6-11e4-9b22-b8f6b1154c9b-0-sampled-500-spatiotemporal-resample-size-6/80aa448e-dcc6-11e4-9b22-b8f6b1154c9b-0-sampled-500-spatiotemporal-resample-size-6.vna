@@ -1,0 +1,30 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-264-241 500.0 0.000241 0.00743 241.0 264.0
+assemblage-689-564 500.0 0.000564 0.00318 564.0 689.0
+assemblage-935-640 500.0 0.00064 0.00072 640.0 935.0
+assemblage-795-169 500.0 0.000169 0.00212 169.0 795.0
+assemblage-932-740 500.0 0.00074 0.00075 740.0 932.0
+assemblage-163-872 500.0 0.000872 0.00844 872.0 163.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-264-241 500.0 0.000241 0.00743 241.0 264.0
+assemblage-689-564 500.0 0.000564 0.00318 564.0 689.0
+assemblage-935-640 500.0 0.00064 0.00072 640.0 935.0
+assemblage-795-169 500.0 0.000169 0.00212 169.0 795.0
+assemblage-932-740 500.0 0.00074 0.00075 740.0 932.0
+assemblage-163-872 500.0 0.000872 0.00844 872.0 163.0
+*Tie data
+From To Edge Weight Network End pValue pError meanSolutionDistance
+assemblage-795-169 assemblage-932-740 1 2 urn:uuid:13074d6a-758c-4000-af72-ffb025028c03 0.0 0.0 683.726000524
+assemblage-163-872 assemblage-932-740 1 2 urn:uuid:13074d6a-758c-4000-af72-ffb025028c03 0.0 0.0 683.726000524
+assemblage-935-640 assemblage-932-740 1 2 urn:uuid:95780ace-7573-4d1d-90a8-857eacd084c2 0.0 0.0 440.14587286
+assemblage-163-872 assemblage-932-740 1 2 urn:uuid:95780ace-7573-4d1d-90a8-857eacd084c2 0.0 0.0 440.14587286
+assemblage-935-640 assemblage-795-169 1 2 urn:uuid:1e77d39c-d11b-4dc2-bcfa-f338223803ec 0.0 0.0 718.344050204
+assemblage-163-872 assemblage-795-169 1 2 urn:uuid:1e77d39c-d11b-4dc2-bcfa-f338223803ec 0.0 0.0 718.344050204
+assemblage-935-640 assemblage-795-169 1 2 urn:uuid:9c505055-00f3-409e-b9dd-f9c6f7735aab 0.0 0.0 539.285853615
+assemblage-932-740 assemblage-795-169 1 2 urn:uuid:9c505055-00f3-409e-b9dd-f9c6f7735aab 0.0 0.0 539.285853615
+assemblage-163-872 assemblage-932-740 1 2 urn:uuid:61f1439a-e1cf-464f-a6c6-f2d62321effb 0.0 0.0 540.144209807
+assemblage-689-564 assemblage-932-740 1 2 urn:uuid:61f1439a-e1cf-464f-a6c6-f2d62321effb 0.0 0.0 540.144209807
+assemblage-264-241 assemblage-689-564 1 2 urn:uuid:d560dbcc-6624-4de8-a882-d21386aa01c4 0.0 0.0 395.641578263
+assemblage-689-564 assemblage-935-640 1 2 urn:uuid:d560dbcc-6624-4de8-a882-d21386aa01c4 0.0 0.0 395.641578263

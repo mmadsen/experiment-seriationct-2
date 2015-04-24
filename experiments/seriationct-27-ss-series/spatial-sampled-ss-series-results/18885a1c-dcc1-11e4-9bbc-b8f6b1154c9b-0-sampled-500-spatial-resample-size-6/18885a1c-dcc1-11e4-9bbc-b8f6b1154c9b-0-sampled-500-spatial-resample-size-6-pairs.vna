@@ -1,0 +1,24 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-773-697 500.0 0.000697 0.00234 697.0 773.0
+assemblage-423-796 500.0 0.000796 0.00584 796.0 423.0
+assemblage-616-193 500.0 0.000193 0.00391 193.0 616.0
+assemblage-926-748 500.0 0.000748 0.00081 748.0 926.0
+assemblage-359-767 500.0 0.000767 0.00648 767.0 359.0
+assemblage-714-557 500.0 0.000557 0.00293 557.0 714.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-773-697 500.0 0.000697 0.00234 697.0 773.0
+assemblage-423-796 500.0 0.000796 0.00584 796.0 423.0
+assemblage-616-193 500.0 0.000193 0.00391 193.0 616.0
+assemblage-926-748 500.0 0.000748 0.00081 748.0 926.0
+assemblage-359-767 500.0 0.000767 0.00648 767.0 359.0
+assemblage-714-557 500.0 0.000557 0.00293 557.0 714.0
+*Tie data
+From To Edge Count
+assemblage-616-193	assemblage-714-557	 1 1
+assemblage-926-748	assemblage-423-796	 1 1
+assemblage-926-748	assemblage-616-193	 1 1
+assemblage-423-796	assemblage-616-193	 1 1
+assemblage-616-193	assemblage-359-767	 1 1
+assemblage-926-748	assemblage-714-557	 1 1

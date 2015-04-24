@@ -1,0 +1,47 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-639-223 500.0 0.000223 0.00368 223.0 639.0
+assemblage-756-716 500.0 0.000716 0.00251 716.0 756.0
+assemblage-599-374 500.0 0.000374 0.00408 374.0 599.0
+assemblage-249-244 500.0 0.000244 0.00758 244.0 249.0
+assemblage-800-441 500.0 0.000441 0.00207 441.0 800.0
+assemblage-158-858 500.0 0.000858 0.00849 858.0 158.0
+assemblage-548-684 500.0 0.000684 0.00459 684.0 548.0
+assemblage-571-365 500.0 0.000365 0.00436 365.0 571.0
+assemblage-768-706 500.0 0.000706 0.00239 706.0 768.0
+assemblage-977-163 500.0 0.000163 0.0003 163.0 977.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-639-223 500.0 0.000223 0.00368 223.0 639.0
+assemblage-756-716 500.0 0.000716 0.00251 716.0 756.0
+assemblage-599-374 500.0 0.000374 0.00408 374.0 599.0
+assemblage-249-244 500.0 0.000244 0.00758 244.0 249.0
+assemblage-800-441 500.0 0.000441 0.00207 441.0 800.0
+assemblage-158-858 500.0 0.000858 0.00849 858.0 158.0
+assemblage-548-684 500.0 0.000684 0.00459 684.0 548.0
+assemblage-571-365 500.0 0.000365 0.00436 365.0 571.0
+assemblage-768-706 500.0 0.000706 0.00239 706.0 768.0
+assemblage-977-163 500.0 0.000163 0.0003 163.0 977.0
+*Tie data
+From To Edge Count
+assemblage-548-684	assemblage-800-441	 1 1
+assemblage-249-244	assemblage-599-374	 1 1
+assemblage-639-223	assemblage-599-374	 1 1
+assemblage-249-244	assemblage-768-706	 1 1
+assemblage-800-441	assemblage-599-374	 1 1
+assemblage-158-858	assemblage-800-441	 1 1
+assemblage-548-684	assemblage-158-858	 1 1
+assemblage-158-858	assemblage-639-223	 1 1
+assemblage-756-716	assemblage-158-858	 1 1
+assemblage-158-858	assemblage-249-244	 1 1
+assemblage-249-244	assemblage-800-441	 1 1
+assemblage-977-163	assemblage-800-441	 1 1
+assemblage-768-706	assemblage-599-374	 1 1
+assemblage-571-365	assemblage-599-374	 1 1
+assemblage-977-163	assemblage-158-858	 1 1
+assemblage-571-365	assemblage-768-706	 1 1
+assemblage-756-716	assemblage-800-441	 1 1
+assemblage-158-858	assemblage-768-706	 1 1
+assemblage-571-365	assemblage-158-858	 1 1
+assemblage-977-163	assemblage-768-706	 1 1
+assemblage-158-858	assemblage-599-374	 1 1

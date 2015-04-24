@@ -1,0 +1,28 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-297-490 500.0 0.00049 0.0071 490.0 297.0
+assemblage-145-672 500.0 0.000672 0.00862 672.0 145.0
+assemblage-1002-149 500.0 0.000149 5e-05 149.0 1002.0
+assemblage-738-152 500.0 0.000152 0.00269 152.0 738.0
+assemblage-902-761 500.0 0.000761 0.00105 761.0 902.0
+assemblage-442-928 500.0 0.000928 0.00565 928.0 442.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-297-490 500.0 0.00049 0.0071 490.0 297.0
+assemblage-145-672 500.0 0.000672 0.00862 672.0 145.0
+assemblage-1002-149 500.0 0.000149 5e-05 149.0 1002.0
+assemblage-738-152 500.0 0.000152 0.00269 152.0 738.0
+assemblage-902-761 500.0 0.000761 0.00105 761.0 902.0
+assemblage-442-928 500.0 0.000928 0.00565 928.0 442.0
+*Tie data
+From To Edge Weight Network End pValue pError meanSolutionDistance
+assemblage-738-152 assemblage-902-761 1 2 urn:uuid:c2b7ceba-9599-4d3e-994b-34a709b83579 0.0 0.0 447.356346291
+assemblage-738-152 assemblage-1002-149 1 2 urn:uuid:c2b7ceba-9599-4d3e-994b-34a709b83579 0.0 0.0 447.356346291
+assemblage-738-152 assemblage-145-672 1 2 urn:uuid:e797f22a-4754-4665-933d-a5f46109e4fa 0.0 0.0 809.619003024
+assemblage-738-152 assemblage-442-928 1 2 urn:uuid:e797f22a-4754-4665-933d-a5f46109e4fa 0.0 0.0 809.619003024
+assemblage-738-152 assemblage-902-761 1 2 urn:uuid:10f8c758-5e6b-41fd-a346-fffadcf6cea2 0.0 0.0 709.698239079
+assemblage-738-152 assemblage-145-672 1 2 urn:uuid:10f8c758-5e6b-41fd-a346-fffadcf6cea2 0.0 0.0 709.698239079
+assemblage-738-152 assemblage-145-672 1 2 urn:uuid:59eb984a-9ac8-4f65-9400-fe7b790bf788 0.0 0.0 512.912635192
+assemblage-297-490 assemblage-145-672 1 2 urn:uuid:59eb984a-9ac8-4f65-9400-fe7b790bf788 0.0 0.0 512.912635192
+assemblage-297-490 assemblage-145-672 1 2 urn:uuid:10490296-65f3-4394-a089-6f031818db30 0.0 0.0 620.552757712
+assemblage-1002-149 assemblage-145-672 1 2 urn:uuid:10490296-65f3-4394-a089-6f031818db30 0.0 0.0 620.552757712

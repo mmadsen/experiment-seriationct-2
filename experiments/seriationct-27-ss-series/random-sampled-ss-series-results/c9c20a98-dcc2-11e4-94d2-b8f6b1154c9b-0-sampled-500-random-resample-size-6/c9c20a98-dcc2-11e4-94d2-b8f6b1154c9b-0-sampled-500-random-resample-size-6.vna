@@ -1,0 +1,34 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-266-233 500.0 0.000233 0.00741 233.0 266.0
+assemblage-129-651 500.0 0.000651 0.00878 651.0 129.0
+assemblage-863-488 500.0 0.000488 0.00144 488.0 863.0
+assemblage-760-273 500.0 0.000273 0.00247 273.0 760.0
+assemblage-254-702 500.0 0.000702 0.00753 702.0 254.0
+assemblage-403-242 500.0 0.000242 0.00604 242.0 403.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-266-233 500.0 0.000233 0.00741 233.0 266.0
+assemblage-129-651 500.0 0.000651 0.00878 651.0 129.0
+assemblage-863-488 500.0 0.000488 0.00144 488.0 863.0
+assemblage-760-273 500.0 0.000273 0.00247 273.0 760.0
+assemblage-254-702 500.0 0.000702 0.00753 702.0 254.0
+assemblage-403-242 500.0 0.000242 0.00604 242.0 403.0
+*Tie data
+From To Edge Weight Network End pValue pError meanSolutionDistance
+assemblage-254-702 assemblage-760-273 1 2 urn:uuid:cd7e7fb7-1e39-420f-8c99-37aa6b153ca0 0.0 0.0 450.890910983
+assemblage-863-488 assemblage-760-273 1 2 urn:uuid:cd7e7fb7-1e39-420f-8c99-37aa6b153ca0 0.0 0.0 450.890910983
+assemblage-254-702 assemblage-129-651 1 2 urn:uuid:15bca8b9-f9de-4640-acb6-c59cc383221e 0.0 0.0 309.266716933
+assemblage-254-702 assemblage-403-242 1 2 urn:uuid:15bca8b9-f9de-4640-acb6-c59cc383221e 0.0 0.0 309.266716933
+assemblage-129-651 assemblage-760-273 1 2 urn:uuid:91c2e7ab-88cb-4954-acc6-38ec0964a429 0.0 0.0 546.950511161
+assemblage-403-242 assemblage-760-273 1 2 urn:uuid:91c2e7ab-88cb-4954-acc6-38ec0964a429 0.0 0.0 546.950511161
+assemblage-863-488 assemblage-129-651 1 2 urn:uuid:c1af3920-be27-4384-8420-2ecf59e81fdd 0.0 0.0 636.764182554
+assemblage-863-488 assemblage-403-242 1 2 urn:uuid:c1af3920-be27-4384-8420-2ecf59e81fdd 0.0 0.0 636.764182554
+assemblage-266-233 assemblage-760-273 1 2 urn:uuid:e2d508ed-8a36-442c-8c56-f68d7ec06078 0.0 0.0 579.499891957
+assemblage-254-702 assemblage-760-273 1 2 urn:uuid:e2d508ed-8a36-442c-8c56-f68d7ec06078 0.0 0.0 579.499891957
+assemblage-266-233 assemblage-863-488 1 2 urn:uuid:e782dc56-09d1-47d3-8bfb-d11b58799f54 0.0 0.0 647.3423553
+assemblage-254-702 assemblage-863-488 1 2 urn:uuid:e782dc56-09d1-47d3-8bfb-d11b58799f54 0.0 0.0 647.3423553
+assemblage-266-233 assemblage-863-488 1 2 urn:uuid:5f516b28-6d7e-4da7-a0ef-d66791ca0b9a 0.0 0.0 443.789153808
+assemblage-863-488 assemblage-760-273 1 2 urn:uuid:5f516b28-6d7e-4da7-a0ef-d66791ca0b9a 0.0 0.0 443.789153808
+assemblage-266-233 assemblage-129-651 1 2 urn:uuid:90179672-09e6-48a0-86b4-c67788f4c4b6 0.0 0.0 287.441047969
+assemblage-254-702 assemblage-129-651 1 2 urn:uuid:90179672-09e6-48a0-86b4-c67788f4c4b6 0.0 0.0 287.441047969

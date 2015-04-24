@@ -1,0 +1,30 @@
+*Node data
+ID AssemblageSize X Y Easting Northing
+assemblage-599-374 500.0 0.000374 0.00408 374.0 599.0
+assemblage-976-160 500.0 0.00016 0.00031 160.0 976.0
+assemblage-792-258 500.0 0.000258 0.00215 258.0 792.0
+assemblage-855-506 500.0 0.000506 0.00152 506.0 855.0
+assemblage-955-629 500.0 0.000629 0.00052 629.0 955.0
+assemblage-758-534 500.0 0.000534 0.00249 534.0 758.0
+*Node properties
+ID AssemblageSize X Y Easting Northing
+assemblage-599-374 500.0 0.000374 0.00408 374.0 599.0
+assemblage-976-160 500.0 0.00016 0.00031 160.0 976.0
+assemblage-792-258 500.0 0.000258 0.00215 258.0 792.0
+assemblage-855-506 500.0 0.000506 0.00152 506.0 855.0
+assemblage-955-629 500.0 0.000629 0.00052 629.0 955.0
+assemblage-758-534 500.0 0.000534 0.00249 534.0 758.0
+*Tie data
+From To Edge Weight Network End pValue pError meanSolutionDistance
+assemblage-855-506 assemblage-792-258 1 2 urn:uuid:86c82ae9-ae80-436a-8cd1-c820357dd8d2 0.0 0.0 232.173772485
+assemblage-792-258 assemblage-976-160 1 2 urn:uuid:86c82ae9-ae80-436a-8cd1-c820357dd8d2 0.0 0.0 232.173772485
+assemblage-855-506 assemblage-758-534 1 2 urn:uuid:1419654d-ea01-463e-97cf-254436aa7173 0.0 0.0 194.494082355
+assemblage-855-506 assemblage-599-374 1 2 urn:uuid:1419654d-ea01-463e-97cf-254436aa7173 0.0 0.0 194.494082355
+assemblage-855-506 assemblage-955-629 1 2 urn:uuid:6aa9d7c7-b64d-4bb2-be67-3a19d012252d 0.0 0.0 223.274534192
+assemblage-855-506 assemblage-599-374 1 2 urn:uuid:6aa9d7c7-b64d-4bb2-be67-3a19d012252d 0.0 0.0 223.274534192
+assemblage-792-258 assemblage-758-534 1 2 urn:uuid:83d3b159-bd54-43df-91af-6e94bbe77529 0.0 0.0 251.632012567
+assemblage-792-258 assemblage-599-374 1 2 urn:uuid:83d3b159-bd54-43df-91af-6e94bbe77529 0.0 0.0 251.632012567
+assemblage-792-258 assemblage-955-629 1 2 urn:uuid:9a4374ef-5422-430d-b623-9e626d89bea0 0.0 0.0 315.203019149
+assemblage-792-258 assemblage-599-374 1 2 urn:uuid:9a4374ef-5422-430d-b623-9e626d89bea0 0.0 0.0 315.203019149
+assemblage-976-160 assemblage-955-629 1 2 urn:uuid:d9cdcc5b-02ec-4e6b-ac30-6b3d6e734c56 0.0 0.0 451.486542842
+assemblage-976-160 assemblage-599-374 1 2 urn:uuid:d9cdcc5b-02ec-4e6b-ac30-6b3d6e734c56 0.0 0.0 451.486542842
