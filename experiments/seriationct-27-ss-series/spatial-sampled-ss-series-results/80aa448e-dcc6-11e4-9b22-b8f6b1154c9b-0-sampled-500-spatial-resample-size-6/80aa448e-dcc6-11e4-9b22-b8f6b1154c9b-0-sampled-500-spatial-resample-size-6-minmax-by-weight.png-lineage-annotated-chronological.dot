@@ -1,0 +1,18 @@
+strict graph "seriationct-27  spatial-sampled-ss-series-results  80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-resample-size-6  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-27  spatial-sampled-ss-series-results  80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatial-resample-size-6  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="374.0", appears_in_slice=5, yCoordinate="599.0", colorscheme=accent6, lineage_id=0, short_label="599-374", label="599-374", shape=circle, cluster_id=2, fillcolor=3, size="500.0", id=0, penwidth="5.0"];
+1 [xCoordinate="160.0", appears_in_slice=2, yCoordinate="976.0", colorscheme=accent6, lineage_id=1, short_label="976-160", label="976-160", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=1, penwidth="2.0"];
+2 [xCoordinate="258.0", appears_in_slice=3, yCoordinate="792.0", colorscheme=accent6, lineage_id=0, short_label="792-258", label="792-258", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=2, penwidth="3.0"];
+3 [xCoordinate="506.0", appears_in_slice=6, yCoordinate="855.0", colorscheme=accent6, lineage_id=0, short_label="855-506", label="855-506", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=3, penwidth="6.0"];
+4 [xCoordinate="629.0", appears_in_slice=1, yCoordinate="955.0", colorscheme=accent6, lineage_id=1, short_label="955-629", label="955-629", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=4, penwidth="1.0"];
+5 [xCoordinate="534.0", appears_in_slice=3, yCoordinate="758.0", colorscheme=accent6, lineage_id=0, short_label="758-534", label="758-534", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=5, penwidth="3.0"];
+0 -- 2  [inverseweight="2.2712261317", weight="0.440290812986"];
+0 -- 3  [inverseweight="1.95929337738", weight="0.510388087635"];
+1 -- 2  [inverseweight="4.29220128767", weight="0.232980685895"];
+3 -- 4  [inverseweight="1.18348582216", weight="0.844961537586"];
+3 -- 5  [inverseweight="2.61568675239", weight="0.38230877573"];
+}

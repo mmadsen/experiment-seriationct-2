@@ -1,0 +1,22 @@
+strict graph "seriationct-27  random-sampled-ss-series-results  18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-resample-size-8  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-27  random-sampled-ss-series-results  18885a1c-dcc1-11e4-9bbc-b8f6b1154c9b-0-sampled-500-random-resample-size-8  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="485.0", appears_in_slice=6, yCoordinate="837.0", colorscheme=accent6, lineage_id=0, short_label="837-485", label="837-485", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=0, penwidth="6.0"];
+1 [xCoordinate="763.0", appears_in_slice=4, yCoordinate="909.0", colorscheme=accent6, lineage_id=0, short_label="909-763", label="909-763", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=1, penwidth="4.0"];
+2 [xCoordinate="374.0", appears_in_slice=5, yCoordinate="599.0", colorscheme=accent6, lineage_id=0, short_label="599-374", label="599-374", shape=circle, cluster_id=2, fillcolor=3, size="500.0", id=2, penwidth="5.0"];
+3 [xCoordinate="587.0", appears_in_slice=6, yCoordinate="723.0", colorscheme=accent6, lineage_id=0, short_label="723-587", label="723-587", shape=circle, cluster_id=2, fillcolor=3, size="500.0", id=3, penwidth="6.0"];
+4 [xCoordinate="488.0", appears_in_slice=6, yCoordinate="863.0", colorscheme=accent6, lineage_id=0, short_label="863-488", label="863-488", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=4, penwidth="6.0"];
+5 [xCoordinate="159.0", appears_in_slice=3, yCoordinate="799.0", colorscheme=accent6, lineage_id=0, short_label="799-159", label="799-159", shape=circle, cluster_id=2, fillcolor=3, size="500.0", id=5, penwidth="3.0"];
+6 [xCoordinate="751.0", appears_in_slice=6, yCoordinate="949.0", colorscheme=accent6, lineage_id=0, short_label="949-751", label="949-751", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=6, penwidth="6.0"];
+7 [xCoordinate="782.0", appears_in_slice=2, yCoordinate="363.0", colorscheme=accent6, lineage_id=2, short_label="363-782", label="363-782", shape=diamond, cluster_id=0, fillcolor=1, size="500.0", id=7, penwidth="2.0"];
+0 -- 3  [inverseweight="1.40081854131", weight="0.713868335199"];
+1 -- 3  [inverseweight="1.79874735681", weight="0.555942443064"];
+1 -- 7  [inverseweight="2.19547565896", weight="0.45548216211"];
+2 -- 6  [inverseweight="2.85569788991", weight="0.350177098052"];
+3 -- 4  [inverseweight="15.7485197087", weight="0.0634980314656"];
+3 -- 6  [inverseweight="1.81764111282", weight="0.550163612028"];
+5 -- 7  [inverseweight="1.90418512333", weight="0.525159023535"];
+}

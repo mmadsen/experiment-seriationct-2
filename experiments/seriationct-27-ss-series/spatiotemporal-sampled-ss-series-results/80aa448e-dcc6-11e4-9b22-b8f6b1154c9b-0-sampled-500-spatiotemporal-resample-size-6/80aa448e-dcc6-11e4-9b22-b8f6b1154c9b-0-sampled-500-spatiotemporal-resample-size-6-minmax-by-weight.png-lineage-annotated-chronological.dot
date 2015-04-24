@@ -1,0 +1,18 @@
+strict graph "seriationct-27  spatiotemporal-sampled-ss-series-results  80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-resample-size-6  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-27  spatiotemporal-sampled-ss-series-results  80aa448e-dcc6-11e4-9b22-b8f6b1154c9b-0-sampled-500-spatiotemporal-resample-size-6  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="169.0", appears_in_slice=3, yCoordinate="795.0", colorscheme=accent6, lineage_id=0, short_label="795-169", label="795-169", shape=circle, cluster_id=2, fillcolor=3, size="500.0", id=0, penwidth="3.0"];
+1 [xCoordinate="564.0", appears_in_slice=6, yCoordinate="689.0", colorscheme=accent6, lineage_id=0, short_label="689-564", label="689-564", shape=circle, cluster_id=2, fillcolor=3, size="500.0", id=1, penwidth="6.0"];
+2 [xCoordinate="640.0", appears_in_slice=1, yCoordinate="935.0", colorscheme=accent6, lineage_id=1, short_label="935-640", label="935-640", shape=square, cluster_id=3, fillcolor=4, size="500.0", id=2, penwidth="1.0"];
+3 [xCoordinate="241.0", appears_in_slice=5, yCoordinate="264.0", colorscheme=accent6, lineage_id=0, short_label="264-241", label="264-241", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=3, penwidth="5.0"];
+4 [xCoordinate="740.0", appears_in_slice=6, yCoordinate="932.0", colorscheme=accent6, lineage_id=0, short_label="932-740", label="932-740", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=4, penwidth="6.0"];
+5 [xCoordinate="872.0", appears_in_slice=5, yCoordinate="163.0", colorscheme=accent6, lineage_id=0, short_label="163-872", label="163-872", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=5, penwidth="5.0"];
+0 -- 2  [inverseweight="1.54008814731", weight="0.649313483612"];
+0 -- 5  [inverseweight="1.95336346224", weight="0.511937496185"];
+1 -- 3  [inverseweight="3.06569669742", weight="0.326190128606"];
+1 -- 4  [inverseweight="2.88800308522", weight="0.346260017906"];
+4 -- 5  [inverseweight="1.5774362005", weight="0.633940060258"];
+}

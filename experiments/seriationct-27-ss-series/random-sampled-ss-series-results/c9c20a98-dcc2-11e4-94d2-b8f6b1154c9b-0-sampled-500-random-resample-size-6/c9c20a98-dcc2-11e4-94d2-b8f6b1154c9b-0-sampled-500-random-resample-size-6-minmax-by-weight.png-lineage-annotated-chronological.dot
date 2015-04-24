@@ -1,0 +1,18 @@
+strict graph "seriationct-27  random-sampled-ss-series-results  c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-resample-size-6  lineage" {
+labelloc=b;
+ratio=auto;
+pad="1.0";
+label="seriationct-27  random-sampled-ss-series-results  c9c20a98-dcc2-11e4-94d2-b8f6b1154c9b-0-sampled-500-random-resample-size-6  lineage";
+node [width="0.75", style=filled, fixedsize=true, height="0.75", shape=circle, label=""];
+0 [xCoordinate="233.0", appears_in_slice=5, yCoordinate="266.0", colorscheme=accent6, lineage_id=0, short_label="266-233", label="266-233", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=0, penwidth="5.0"];
+1 [xCoordinate="651.0", appears_in_slice=1, yCoordinate="129.0", colorscheme=accent6, lineage_id=2, short_label="129-651", label="129-651", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=1, penwidth="1.0"];
+2 [xCoordinate="488.0", appears_in_slice=6, yCoordinate="863.0", colorscheme=accent6, lineage_id=0, short_label="863-488", label="863-488", shape=circle, cluster_id=0, fillcolor=1, size="500.0", id=2, penwidth="6.0"];
+3 [xCoordinate="273.0", appears_in_slice=3, yCoordinate="760.0", colorscheme=accent6, lineage_id=0, short_label="760-273", label="760-273", shape=circle, cluster_id=3, fillcolor=4, size="500.0", id=3, penwidth="3.0"];
+4 [xCoordinate="702.0", appears_in_slice=2, yCoordinate="254.0", colorscheme=accent6, lineage_id=2, short_label="254-702", label="254-702", shape=diamond, cluster_id=1, fillcolor=2, size="500.0", id=4, penwidth="2.0"];
+5 [xCoordinate="242.0", appears_in_slice=6, yCoordinate="403.0", colorscheme=accent6, lineage_id=0, short_label="403-242", label="403-242", shape=circle, cluster_id=1, fillcolor=2, size="500.0", id=5, penwidth="6.0"];
+0 -- 2  [inverseweight="3.77554778677", weight="0.264862228338"];
+1 -- 3  [inverseweight="1.35836468739", weight="0.73617932598"];
+2 -- 3  [inverseweight="1.2668503226", weight="0.789359233809"];
+2 -- 5  [inverseweight="3.02491907693", weight="0.33058735608"];
+3 -- 4  [inverseweight="1.19460075564", weight="0.837099755107"];
+}
